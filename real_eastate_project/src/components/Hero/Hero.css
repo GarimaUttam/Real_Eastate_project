@@ -59,6 +59,19 @@
     margin-right:1rem ;
     color:rgb(79, 79, 243)
 }
+
+.stats{
+    width:100%;
+    justify-content:space-between;
+}
+
+.stat>:nth-child(1){
+    font-size: 2rem;;
+}
+
+.stat>:nth-child(1)>:last-child{
+    color: rgb(201, 177, 100);;
+}
 /* right side */
 .image-container{
     width: 30rem;
