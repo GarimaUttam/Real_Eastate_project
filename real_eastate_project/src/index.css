@@ -60,6 +60,9 @@ a {
   justify-content: center;
   align-items: flex-start;
 }
+.flexColStart ul li{
+  list-style:disc;
+}
 .flexColEnd {
   display: flex;
   flex-direction: column;
