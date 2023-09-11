@@ -9,7 +9,8 @@ const Companies = () => {
             <img src="./c_logo2.png" alt=""/>
             <img src="./c_logo3.png" alt=""/>
             <img src="./c_logo4.png" alt=""/>
-            <img src="./c_logo5.jpeg" alt=""/>
+            <img src="./c_logo5.jpg" alt=""/>
+            <img src="./c_logo6.png" alt=""/>
 
             </div>
     </section>

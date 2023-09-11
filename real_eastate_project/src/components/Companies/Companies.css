@@ -1,7 +1,12 @@
 .c-container{
+    display:flex;
     justify-content: space-around;
     gap:1rem;
+    background-color: rgb(70, 77, 90);
+    height:150px;
 }
 .c-container>img{
-    width: 9rem;
+    width: 10rem;
+    border-radius: 0.5rem;
+    height: 5rem;
 }
