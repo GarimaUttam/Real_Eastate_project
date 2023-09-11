@@ -3,76 +3,20 @@
       "name": "Aliva Priva Jardin",
       "price": "47,043",
       "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-      "image": "./r1.png"
+      "image":  "./company1.jpeg"
     },
     {
       "name": "Asatti Garden City",
       "price": "66,353",
       "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-      "image": "./r2.png"
-    },
-    {
-      "name": "Citralan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company1.jpeg"
-    },
-    {
-      "name": "Aliva Priva Jardin",
-      "price": "47,043",
-      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
       "image": "./company2.jpeg"
     },
     {
-      "name": "Asatti Garden City",
-      "price": "66,353",
-      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-      "image": "./company3.jpeg"
-    },
-    {
       "name": "Citralan Puri Serang",
       "price": "35,853",
       "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company4.jpeg"
-    },
-    {
-      "name": "Citralan  Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company5.jpeg"
-    },
-
-    {
-      "name": "Citralan Pur Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company6.jpeg"
-    },
-
-    {
-      "name": "Citralan ri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company7.jpeg"
-    },
-
-    {
-      "name": "Citralan Purig",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company8.jpeg"
-    },
-    {
-      "name": "Citralanng",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company9.jpeg"
-    },
-    
-    {
-      "name": "lan Puri Serang",
-      "price": "35,853",
-      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-      "image": "./company10.jpeg"
+      "image": "./company3.jpeg"
     }
+    
+    
   ]

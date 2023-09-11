@@ -71,9 +71,9 @@ a {
 }
 
 .primaryText {
-  color: #1f3e72;
+  color: #addbeb;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .secondaryText {
@@ -81,9 +81,9 @@ a {
   font-size: 0.9rem;
 }
 .orangeText {
-  color: orange;
-  font-size: 1.5rem;
-  font-weight: 600;
+  color: rgb(236, 236, 16);
+  font-size: 2rem;
+  font-weight: 700;
 }
 .button{
   font-weight: 500;
