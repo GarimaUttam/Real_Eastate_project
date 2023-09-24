@@ -36,6 +36,7 @@ const Residencies = () => {
                         )}
             </Swiper> */}
 
+
         <div className="Shop-section">
 
           <div className="box box1">
